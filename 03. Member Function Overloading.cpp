@@ -2,18 +2,18 @@ Aim: To write a C++ program that demonstrates function overloading by defining m
 
 Algorithm:
 
-Start the program.
-Create a class PrintData with three overloaded functions named display():
+1.Start the program.
+2.Create a class PrintData with three overloaded functions named display():
 One accepts an integer.
 One accepts a double.
 One accepts a string.
-In each function, print the corresponding data type and its value.
-In the main() function, create an object of the class.
-Call the three overloaded display() functions with values:
+3.In each function, print the corresponding data type and its value.
+4.In the main() function, create an object of the class.
+5.Call the three overloaded display() functions with values:
 10
 99.99
 "Hello World"
-End the program.
+6.End the program.
 
 Program:
 
