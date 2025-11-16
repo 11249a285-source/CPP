@@ -47,4 +47,5 @@ Output:
 Name: Alice, Age: 20
 Name: Bob, Age: 22
 
-Result: This program demonstrates how to create a class in C++ and use objects to store and display student details using a member function.
+Result: 
+This program demonstrates how to create a class in C++ and use objects to store and display student details using a member function.
