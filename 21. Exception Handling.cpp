@@ -44,3 +44,13 @@ int main()
 
     return 0;
 }
+
+Output:
+Enter numerator: 10
+Enter denominator: 2
+
+Result = 5
+Program executed successfully.
+
+Result: 
+This program correctly handles division by zero using a try–catch block, ensuring that errors are caught and the program continues to execute safely.
