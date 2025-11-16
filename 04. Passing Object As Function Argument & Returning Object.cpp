@@ -60,4 +60,5 @@ int main() {
 Output:
 Result: 7 + 7i
 
-Result: The program successfully adds two complex numbers using a class and member function, demonstrating object-oriented programming and returning objects in C++.
+Result: 
+The program successfully adds two complex numbers using a class and member function, demonstrating object-oriented programming and returning objects in C++.
