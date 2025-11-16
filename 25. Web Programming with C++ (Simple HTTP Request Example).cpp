@@ -64,3 +64,24 @@ int main()
     return 0;
 }
 
+Output:
+Server Response:
+
+<!doctype html>  
+<html>  
+<head>  
+    <title>Example Domain</title>  
+    …  
+</head>  
+<body>  
+    <div>  
+        <h1>Example Domain</h1>  
+        <p>This domain is for use in illustrative examples in documents.…</p>  
+        …  
+    </div>  
+</body>  
+</html>
+
+Result:
+The program successfully uses libcurl in C++ to perform an HTTP GET request, fetch the HTML response from the server, and print it to the console.
+
