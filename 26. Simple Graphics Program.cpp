@@ -73,4 +73,5 @@ Output:
   
   "Bresenham's Line Drawing Algorithm"
 
-Result: This program successfully draws a line between two points using Bresenham’s line drawing algorithm, showing fast and accurate pixel plotting in computer graphics.
+Result: 
+This program successfully draws a line between two points using Bresenham’s line drawing algorithm, showing fast and accurate pixel plotting in computer graphics.
