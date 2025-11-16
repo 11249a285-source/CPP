@@ -53,4 +53,5 @@ Roll Number: 102
 Roll Number: 103
 Total number of students: 3
 
-Result: The program successfully demonstrates the use of a static data member and static member function to count objects, showing that static members are shared by all objects of a class.
+Result: 
+The program successfully demonstrates the use of a static data member and static member function to count objects, showing that static members are shared by all objects of a class.
